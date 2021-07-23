@@ -1,0 +1,17 @@
+1.先写 index.js入口文件
+import React form 'react'
+import ReactDOM from 'react-dom'
+import App from './App'
+
+ReactDom.render(
+	<App/>,
+	document.getElementById('root')
+)
+
+2.App.jsx
+
+3.html
+
+
+
+
